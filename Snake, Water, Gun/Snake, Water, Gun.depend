@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615745739 source:c:\users\2114\desktop\my c lang folder\snake, water, gun\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
